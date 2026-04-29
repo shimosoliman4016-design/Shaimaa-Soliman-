@@ -1,0 +1,17 @@
+# Requirements for TikTok Video Generator
+
+# Core dependencies for video generation
+opencv-python>=4.5.0
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Audio processing
+moviepy>=1.0.3
+pydub>=0.25.1
+gTTS>=2.2.0
+
+# Optional but recommended
+ffmpeg-python>=0.2.1
+
+# Development
+ipython>=7.0.0
